@@ -1,0 +1,6 @@
+Name:string,Calls:ulong,Excl Count Min:ulong,Excl Count Max:ulong,Excl Count Average,Excl Count Total:float:decimal,Incl Count Min:ulong,Incl Count Max:ulong,Incl Count Average,Incl Count Total:float:decimal,Filename:string,Line Number:uinteger,Start Address:uinteger,
+bitrev_of(int),8,38,38,38.000000,304.000000,38,38,38.000000,304.000000,C:\Users\Batch A\Documents\21d070020_21d070024\lab6_fft_comp\Debug\..\main.c,10,65536,
+"butterfly(float *, float *, float *, float *, float *, float *, float *, float *)",12,277,347,323.666667,3884.000000,277,347,323.666667,3884.000000,C:\Users\Batch A\Documents\21d070020_21d070024\lab6_fft_comp\Debug\..\main.c,38,65763,
+"complex_multiply(float *, float *, float *, float *, float *, float *)",8,414,668,517.000000,4136.000000,414,668,517.000000,4136.000000,C:\Users\Batch A\Documents\21d070020_21d070024\lab6_fft_comp\Debug\..\main.c,24,65628,
+main(),1,-,-,11.000000,11.000000,-,-,10397.000000,10397.000000,C:\Users\Batch A\Documents\21d070020_21d070024\lab6_fft_comp\Debug\..\main.c,119,66820,
+"sw_fft(float *, float *, float *)",1,2062,2062,2062.000000,2062.000000,10386,10386,10386.000000,10386.000000,C:\Users\Batch A\Documents\21d070020_21d070024\lab6_fft_comp\Debug\..\main.c,46,65872,
